@@ -6,3 +6,7 @@ This directory contains (inofficial) copies of the core of the SAM AFS in pure t
 
 * [SAM.en.txt](SAM.en.txt)
 * [SAM.sv.txt](SAM.sv.txt)
+
+## Notes and interpretations
+
+* ["Skyddsrond"](http://www.arbetsmiljoupplysningen.se/Amnen/Skyddsrond/) ("safety inspection" or "work environment check") is not explicitly mentioned in the text, but fits under the first part of 8§ about "regularly investigate working conditions".
