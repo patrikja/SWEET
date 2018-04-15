@@ -2,7 +2,7 @@
 
 Public repository for the Computer Science and Engineer (CSE) department SWEET group.
 
-The CSE department is shared between Chalmers universiy of technology (Chalmers) and University of Gotheburg (UGOT).
+The CSE department is shared between Chalmers university of technology (Chalmers) and University of Gothenburg (UGOT).
 
 ## SWEET = MAJ
 
