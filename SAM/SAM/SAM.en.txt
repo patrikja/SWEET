@@ -1,15 +1,12 @@
 * AFS 2001:1 Systematic Work Environment Management
-Provisions of the Swedish Work Environment Authority on
-Systematic Work Environment Management, together with General Recommendations on the implementation of the Provisions
+Provisions of the Swedish Work Environment Authority on Systematic Work Environment Management, together with General Recommendations on the implementation of the Provisions
 https://www.av.se/globalassets/filer/publikationer/foreskrifter/engelska/systematic-work-environment-management-provisions-afs2001-1.pdf
 ** Scope of the Provisions
 *** 1 §
 These Provisions apply to all employers. Persons renting manpower are equated with employers.
-
 ** Definition of systematic work environment management
 *** 2 §
 For the purposes of these Provisions, systematic work environment management means the work done by the employer to investigate, carry out and follow up activities in such a way that ill-health and accidents at work are prevented and a satisfactory working environment achieved.
-
 ** Natural part of the activity. Participation, work environment policy and routines
 *** 3 §
 Systematic work environment management shall be included as a natural part of day-to-day activities. It shall comprise all physical, psychological and social conditions of importance for the work environment.
@@ -32,7 +29,6 @@ The employer shall make sure that those assigned the tasks have sufficient compe
 The allocation of tasks shall be documented in writing if there are at least ten persons employed in the activity.
 *** 7 §
 The employer shall make sure that the employees’ knowledge of the work and of the risks which the work entails is sufficient for ill-health and accidents to be prevented and for a satisfactory working environment to be achieved. Where the risks at work are serious there shall be written instructions for the work.
-
 ** Risk assessment, measures and follow-up
 *** 8 §
 The employer shall regularly investigate working conditions and assess the risks of any person being affected by ill-health or accidents at work.
@@ -55,3 +51,8 @@ The follow-up shall be documented in writing if there are at least ten persons e
 When competence within the employer’s own activity is insufficient for systematic work environment management or for work relating to job adaption and rehabilitation, the employer shall engage occupational health services or corresponding expert assistance from outside.
 
 When occupational health service or corresponding expert assistance are engaged, they shall be sufficient in scope and shall have sufficient competence and resources for this work. In addition, the stipulations in Appendix 2 shall be fulfilled.
+* [Settings]
+# Local Variables:
+# mode: org
+# mode: visual-line
+# End:
