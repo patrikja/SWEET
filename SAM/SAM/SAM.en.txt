@@ -1,0 +1,57 @@
+* AFS 2001:1 Systematic Work Environment Management
+Provisions of the Swedish Work Environment Authority on
+Systematic Work Environment Management, together with General Recommendations on the implementation of the Provisions
+https://www.av.se/globalassets/filer/publikationer/foreskrifter/engelska/systematic-work-environment-management-provisions-afs2001-1.pdf
+** Scope of the Provisions
+*** 1 §
+These Provisions apply to all employers. Persons renting manpower are equated with employers.
+
+** Definition of systematic work environment management
+*** 2 §
+For the purposes of these Provisions, systematic work environment management means the work done by the employer to investigate, carry out and follow up activities in such a way that ill-health and accidents at work are prevented and a satisfactory working environment achieved.
+
+** Natural part of the activity. Participation, work environment policy and routines
+*** 3 §
+Systematic work environment management shall be included as a natural part of day-to-day activities. It shall comprise all physical, psychological and social conditions of importance for the work environment.
+*** 4 §
+The employer shall give the employees, safety delegates and pupil safety delegates the possibility of participating in systematic work environment management.
+*** 5 §
+There shall be a work environment policy describing how the working conditions in the employer’s activity shall be in order for ill-health and accidents at work to be prevented and a satisfactory working environment to be achieved.
+There shall be routines describing how systematic work environment management shall proceed.
+The work environment policy and the routines shall be documented in writing if there are at least ten persons employed in the activity.
+** Allocation of tasks. Knowledge
+*** 6 §
+The employer shall allocate the tasks in the activity in such a way that one or more managers, supervisors or other employees are tasked with working for the prevention of risks at work and the achievement of a satisfactory working environment.
+The employer shall make sure that the persons assigned these tasks are sufficient in number and have the authority and the resources that are needed. The employer shall also make sure that they have sufficient knowledge of
+- rules with significance for the working environment,
+- physical, psychological and social conditions implying risks of accidents and ill-health,
+- measures to prevent ill-health and accidents, and
+- working conditions which contributes to a satisfactory working environment.
+
+The employer shall make sure that those assigned the tasks have sufficient competence for the conduct of a wel-functioning systematic work environment management. In addition, the stipulations in Appendix 1 shall be fulfilled.
+The allocation of tasks shall be documented in writing if there are at least ten persons employed in the activity.
+*** 7 §
+The employer shall make sure that the employees’ knowledge of the work and of the risks which the work entails is sufficient for ill-health and accidents to be prevented and for a satisfactory working environment to be achieved. Where the risks at work are serious there shall be written instructions for the work.
+
+** Risk assessment, measures and follow-up
+*** 8 §
+The employer shall regularly investigate working conditions and assess the risks of any person being affected by ill-health or accidents at work.
+
+When changes to the activity are being planned, the employer shall assess whether the changes entail risks of ill-health or accidents which may require measurements.
+
+The risk assessment shall be documented in writing. The risk assessment shall indicate which risks are present and whether or not they are serious.
+*** 9 §
+In the event of an employee meeting with ill-health or an accident at work and in the event of a serious incident at work, the employer shall investigate the causes, so that risks of ill-health and accidents can be prevented in the future.
+*** 10 §
+The employer shall carry out, immediately or as soon as is practically possible, the measures which are needed for the prevention of ill-health and accidents at work. The employer shall also take such other measures as are needed in order to achieve a satisfactory working environment.
+Measures not carried out immediately shall be put in a written action plan.
+The plan shall indicate when the measures shall be taken and who is responsible for making sure they are carried out.
+Measures taken shall be inspected.
+*** 11 §
+Every year the employer shall carry out a follow-up of systematic work environment management. If it has not functioned satisfactorily it shall be improved.
+The follow-up shall be documented in writing if there are at least ten persons employed in the activity.
+** Occupational health services
+*** 12 §
+When competence within the employer’s own activity is insufficient for systematic work environment management or for work relating to job adaption and rehabilitation, the employer shall engage occupational health services or corresponding expert assistance from outside.
+
+When occupational health service or corresponding expert assistance are engaged, they shall be sufficient in scope and shall have sufficient competence and resources for this work. In addition, the stipulations in Appendix 2 shall be fulfilled.

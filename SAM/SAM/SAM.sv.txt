@@ -1,0 +1,60 @@
+* AFS 2001:1 Systematiskt arbetsmiljöarbete
+Arbetsmiljöverkets föreskrifter om systematiskt arbetsmiljöarbete och allmänna råd om tillämpningen av föreskrifterna
+https://www.av.se/globalassets/filer/publikationer/foreskrifter/systematiskt-arbetsmiljoarbete-foreskrifter-afs2001-1.pdf
+** Föreskrifternas tillämpningsområde
+*** 1 §
+Dessa föreskrifter gäller för alla arbetsgivare. Med arbetsgivare likställs de som hyr in arbetskraft.
+
+** Definition av systematiskt arbetsmiljöarbete
+*** 2 §
+Med systematiskt arbetsmiljöarbete menas i dessa föreskrifter arbetsgivarens arbete med att undersöka, genomföra och följa upp verksamheten på ett sådant sätt att ohälsa och olycksfall i arbetet förebyggs och en tillfredsställande arbetsmiljö uppnås.
+
+** Naturlig del i verksamheten, medverkan, arbetsmiljöpolicy och rutiner
+*** 3 §
+Det systematiska arbetsmiljöarbetet skall ingå som en naturlig del i den dagliga verksamheten. Det skall omfatta alla fysiska, psykologiska och sociala förhållanden som har betydelse för arbetsmiljön.
+*** 4 §
+Arbetsgivaren skall ge arbetstagarna, skyddsombuden och elevskyddsombuden möjlighet att medverka i det systematiska arbetsmiljöarbetet.
+*** 5 §
+Det skall finnas en arbetsmiljöpolicy som beskriver hur arbetsförhållandena i arbetsgivarens verksamhet skall vara för att ohälsa och olycksfall i arbetet skall förebyggas och en tillfredsställande arbetsmiljö uppnås.
+Det skall finnas rutiner som beskriver hur det systematiska arbetsmiljöarbetet skall gå till.
+Arbetsmiljöpolicyn och rutinerna skall dokumenteras skriftligt om det finns minst tio arbetstagare i verksamheten.
+** Uppgiftsfördelning och kunskaper
+*** 6 §
+Arbetsgivaren skall fördela uppgifterna i verksamheten på ett sådant sätt att en eller flera chefer, arbetsledare eller andra arbetstagare får i uppgift att verka för att risker i arbetet förebyggs och en tillfredsställande arbetsmiljö uppnås.
+Arbetsgivaren skall se till att de som får dessa uppgifter är tillräckligt många och har de befogenheter och resurser som behövs. Arbetsgivaren skall också se till att de har tillräckliga kunskaper om
+- regler som har betydelse för arbetsmiljön,
+- fysiska, psykologiska och sociala förhållanden som innebär risker för ohälsa och olycksfall,
+- åtgärder för att förebygga ohälsa och olycksfall samt
+- arbetsförhållanden som främjar en tillfredsställande arbetsmiljö.
+
+Arbetsgivaren skall se till att de som får uppgifterna har tillräcklig kompetens för att bedriva ett väl fungerande
+systematiskt arbetsmiljöarbete. Dessutom skall kraven i bilaga 1 uppfyllas.
+Uppgiftsfördelningen skall dokumenteras skriftligt om det finns minst tio arbetstagare i verksamheten.
+*** 7 §
+Arbetsgivaren skall se till att arbetstagarnas kunskaper om arbetet och riskerna i arbetet är tillräckliga för att ohälsa och olycksfall skall förebyggas och en tillfredsställande arbetsmiljö uppnås. När riskerna i arbetet är allvarliga skall det finnas skriftliga instruktioner för arbetet. (AFS 2003:4)
+
+** Riskbedömning, åtgärder och uppföljning
+*** 8 §
+Arbetsgivaren skall regelbundet undersöka arbetsförhållandena och bedöma riskerna för att någon kan komma att drabbas av ohälsa eller olycksfall i arbetet.
+
+När ändringar i verksamheten planeras, skall arbetsgivaren bedöma om ändringarna medför risker för ohälsa eller
+olycksfall som kan behöva åtgärdas.
+Riskbedömningen skall dokumenteras skriftligt. I riskbedömningen skall anges vilka risker som finns och om de är allvarliga eller inte.
+*** 9 §
+Om någon arbetstagare råkar ut för ohälsa eller olycksfall i arbetet och om något allvarligt tillbud inträffar i arbetet, ska arbetsgivaren utreda orsakerna så att risker för ohälsa och olycksfall kan förebyggas i fortsättningen.
+*** 10 §
+Arbetsgivaren skall omedelbart eller så snart det är praktiskt möjligt genomföra de åtgärder som behövs för att
+förebygga ohälsa och olycksfall i arbetet. Arbetsgivaren skall också vidta de åtgärder som i övrigt behövs för att uppnå en tillfredsställande arbetsmiljö.
+Åtgärder som inte genomförs omedelbart skall föras in i en skriftlig handlingsplan. I planen skall anges när åtgärderna
+skall vara genomförda och vem som skall se till att de genomförs.
+Genomförda åtgärder skall kontrolleras.
+*** 11 §
+Arbetsgivaren skall varje år göra en uppföljning av det systematiska arbetsmiljöarbetet. Om det inte fungerat bra
+skall det förbättras.
+Uppföljningen skall dokumenteras skriftligt om det finns minst tio arbetstagare i verksamheten.
+** Företagshälsovård
+*** 12 §
+När kompetensen inom den egna verksamheten inte räcker för det systematiska arbetsmiljöarbetet eller för arbetet
+med arbetsanpassning och rehabilitering, skall arbetsgivaren anlita företagshälsovård eller motsvarande sakkunnig hjälp utifrån.
+
+När företagshälsovård eller motsvarande sakkunnig hjälp anlitas skall den vara av tillräcklig omfattning samt ha tillräcklig kompetens och tillräckliga resurser för detta arbete. Dessutom skall kraven i bilaga 2 uppfyllas.
