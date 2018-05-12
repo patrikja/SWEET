@@ -1,0 +1,9 @@
+Svenska: SAMO = StuderandeArbetsMiljöOmbud = Skyddombud för studenter
+
+På Chalmers finns det minst en SAMO per studentsektion.
+
+English: Student Safety Representative, Student Safety Delegate
+
+Example uses:
+* (more common) [[https://www.av.se/en/work-environment-work-and-inspections/safety-representatives/pupil-influence-through-the-student-safety-representative/][Student Safety Representative]]
+* (less common) [[https://medarbetare.lnu.se/en/medarbetare/working-at-lnu/work-environment-health-and-safety/work-environment-inspections/][Student Safety Delegate]]
