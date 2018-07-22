@@ -1,0 +1,5 @@
+Svenska: prefekt
+
+English: head of department
+
+Kommentar: Chef över en institution med delegation av uppgifter inom verksamhet (forskning, undervisning, nyttiggörande), personal, ekonomi. På Chalmers är delegation från rektor, på Göteborgs universitet är delegationen från fakultetens dekanus.

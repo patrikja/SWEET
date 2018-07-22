@@ -1,0 +1,3 @@
+Svenska: GURIA - ett system för inrapportering av incidenter, tilbug, olyckor, etc. vid Göteborgs universitet
+
+English: GURIA - a system for reporting of incidents, near accidents, accidents, etc. at University of Gotenburg

@@ -3,7 +3,7 @@ https://www.av.se/arbetsmiljoarbete-och-inspektioner/skyddsombud-och-arbetsmiljo
 
 Se [[file:~/src/SWEET/SAM/SAM/SAM.sv.txt::*4%20%C2%A7][AFS SAM 4 §]]
 
-English: safety representative, safety delegate
+English: safety representative, safety delegate, work environment rep.
 https://www.av.se/en/work-environment-work-and-inspections/safety-representatives/
 
 See [[file:~/src/SWEET/SAM/SAM/SAM.en.txt::*4%20%C2%A7][AFS SAM 4 §]]

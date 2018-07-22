@@ -1,0 +1,4 @@
+Svenska: KLARA - ett system för kemikalieinventering & inköp
+
+English: KLARA - a system for inventory and purchasing of chemicals
+  Inventory and purchasing of chemicals

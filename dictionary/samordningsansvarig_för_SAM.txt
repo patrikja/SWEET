@@ -1,0 +1,7 @@
+Svenska: Samordningsansvarig för SAM
+  SAM = Systematiskt ArbetsMiljöarbete
+
+English: Coordinator for SAM
+  SAM = Systematic Work Environment Management
+
+Kommentar: Se även ../SAM/
