@@ -1,0 +1,5 @@
+* Svenska: [[http://www.arbetsmiljoupplysningen.se/Amnen/Skyddsrond/][skyddsrond]]
+
+* English: "safety inspection" or "work environment check"
+
+* Comment: "Skyddsrond" is not explicitly mentioned in the main text ([[file:~/src/SWEET/SAM/SAM/SAM.en.txt][AFS 2001:1 Systematic Work Environment Management]]), but fits under the first part of 8§ about "regularly investigate working conditions".
