@@ -6,7 +6,7 @@ The CSE department is shared between Chalmers university of technology (Chalmers
 
 ## SWEET = MAJ
 
-M A J = Miljö, Arbetsmiljö & Jämställdhet
+M A J = Miljö, Arbetsmiljö & Jämlikhet
 
 S W E E T = Sustainability, Work Environment & EqualiTy
 
